@@ -17,3 +17,4 @@ Notes and usage details for CursorX-Interactive-Cursor-Effects.
 - clarify the setup steps
 - link the usage section
 - add a note about the defaults
+- link the usage section
